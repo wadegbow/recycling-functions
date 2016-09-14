@@ -2,7 +2,7 @@
 
 Redesign of the backend for recycling. 
 
-Includes:
+##Includes:
 - Basic CMS (CRUD)
 - User Authentication
 - Form Validation
