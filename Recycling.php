@@ -1,7 +1,6 @@
 <?php
 
 session_start(); // starts new or resumes existing session
-session_regenerate_id(true); // regenerates SESSIONID to prevent hijacking
 
 require_once('..\..\filemaker_api\server_data_request.php');
 require_once('..\..\filemaker_api\FileMaker.php');
